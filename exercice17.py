@@ -1,3 +1,5 @@
+#Ecrire une fonction fibonnaci récursive qui calcul la suite de Fibonnaci
+
 def exercice17():
     while True:
 
