@@ -1,3 +1,9 @@
+#Ecrire un script :
+#  – créant un fichier ‘ toto.bin ’ binaire contenant 2 entiers saisis au clavier.
+#  – créant un fichier ‘ toto.txt ’ texte contenant 2 entiers saisis au clavier
+#  – lisant les données écrites dans toto.bin et toto.txt
+#  – visualisant le contenu des fichiers avec la commande type ou un éditeur
+
 def exercice19():
     while True:
         try:
