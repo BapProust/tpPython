@@ -1,3 +1,8 @@
+# Écrire un script qui saisit des entiers positifs.
+# Le script s'arrête dès qu'un entier négatif est saisi.
+# Il affiche alors le nombre d'entiers positifs qui ont
+# été saisis.
+
 def exercice7():
     while True:
         print("Saisir des entiers positifs")
