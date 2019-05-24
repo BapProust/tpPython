@@ -1,3 +1,7 @@
+# Ecrire un script permettant de saisir 10 réels au clavier
+# Les ranger dans un tableau
+# Calculer et afficher la moyenne de ces réels
+
 def exercice13():
     # import d'une fonction de calcul de la moyenne
     from statistics import mean
