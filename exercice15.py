@@ -1,5 +1,4 @@
-# Créer une fonction lance_de permettant de
-# renvoyer une valeur prise au hasard entre 1 et 6
+# Créer une fonction lance_de permettant de renvoyer une valeur prise au hasard entre 1 et 6
 
 
 def lance_de():
