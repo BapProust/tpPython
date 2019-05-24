@@ -1,3 +1,6 @@
+# Ecrire un script permettant de poser la question ‘ voulez-vous jouer ? ’.
+# • Si la réponse est ‘ o ’ ou ‘ O ’ vous afficherez ‘ c ’est parti ! ’. Si la réponse est ‘ n ’ ou ‘ N ’ vous afficherez ‘ tant pis ’.
+
 def exercice5():
     while True:
         try:
