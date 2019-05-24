@@ -11,4 +11,5 @@ def exercice1():
     print("Variable sous forme d'entier :", a, "\nVariable sous forme de caractères :", b)
 
 
+    
 exercice1()
