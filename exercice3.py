@@ -1,3 +1,6 @@
+# Ecrire un script qui divise et affiche 2 réels
+# Faire la même chose avec des entiers
+
 #création de la fonction de division afin de permettre un choix et de pouvoir l'appeler en cas d'erreur
 def division():
 
