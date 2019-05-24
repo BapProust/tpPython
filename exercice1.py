@@ -1,3 +1,7 @@
+#Ecrire un script permettant de créer deux variables
+#Initialiser ces variables
+#Afficher ces variables sous forme d'entiers et de caractères
+
 def exercice1():
     # création des variables
     a = 'A'
