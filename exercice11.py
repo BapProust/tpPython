@@ -1,5 +1,5 @@
 # Faire un script qui calcule l’intégrale de la fonction y = x^2 par la
-# méthode des rectangles avec x [a,b] et un pas p
+# méthode des rectangles avec x compris entre [a,b] et un pas p
 
 def exercice11():
     while True:
