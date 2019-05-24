@@ -1,3 +1,5 @@
+# Ecrire un script permettant de faire une calculatrice console
+
 def exercice9():
     while True:
         operation = input("Entrez une opération: ")
